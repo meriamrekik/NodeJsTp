@@ -1,0 +1,13 @@
+nav {
+  padding: 50px;
+  background-color: var(--orange) !important;
+}
+
+nav a {
+  color: white;
+}
+
+.main-content
+ {
+  padding: 30px;
+}
